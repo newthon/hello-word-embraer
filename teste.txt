@@ -1,1 +1,2 @@
 Arquivo de teste
+Alterado para merge
